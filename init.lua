@@ -7,3 +7,6 @@ vim.opt.relativenumber = true
 vim.opt.number = true
 
 vim.o.guifont = "Comic Code"
+
+vim.o.scrolloff = 8
+
