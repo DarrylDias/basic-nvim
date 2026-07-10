@@ -7,7 +7,7 @@ This is a basic Neovim config that contains only the necessary customizations to
 Clone the repository:
 
 ```bash
-git clone git@github.com:DarrylDias/basic-nvim.git nvim
+git clone git@github.com:DarrylDias/basic-nvim.git ~/.config/nvim
 
 ```
 
