@@ -19,5 +19,3 @@ nvim
 ```
 
 You can also read more about it [here](https://darryldias.me/blog/basic-neovim-config).
-
----
